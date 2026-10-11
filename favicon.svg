@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#FFF8EC"/>
+  <circle cx="256" cy="256" r="196" fill="#FFE7A8"/>
+  <!-- 새싹 줄기 -->
+  <path d="M256 330 C256 270 256 230 256 190" stroke="#2E8B3D" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <!-- 왼쪽 잎 -->
+  <path d="M252 214 C206 214 160 186 150 128 C206 122 248 156 252 214 Z" fill="#4CAF50"/>
+  <!-- 오른쪽 잎 -->
+  <path d="M260 196 C266 132 312 96 376 102 C368 168 318 198 260 196 Z" fill="#66BB6A"/>
+  <!-- 펼친 책 -->
+  <path d="M96 318 C150 298 206 300 256 330 L256 420 C206 392 150 390 96 410 Z" fill="#FF7A59"/>
+  <path d="M416 318 C362 298 306 300 256 330 L256 420 C306 392 362 390 416 410 Z" fill="#FF9B7E"/>
+  <path d="M256 330 L256 420" stroke="#E2583A" stroke-width="8" stroke-linecap="round"/>
+</svg>
